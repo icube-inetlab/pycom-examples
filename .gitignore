@@ -1,0 +1,7 @@
+.*.swp
+*~
+*.o
+*.pyc
+*.bak
+*.DS_Store
+pymakr.conf
